@@ -4,7 +4,7 @@ name         := "chill-scala-2.11"
 
 version      := "1.0-SNAPSHOT"
 
-scalaVersion := "2.11.0"
+scalaVersion := "2.11.1"
 
 scalacOptions ++= Seq("-deprecation", "-feature", "-unchecked")
 
