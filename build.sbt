@@ -1,6 +1,6 @@
 organization := "tv.cntt"
 
-name         := "chill-scala-2.11"
+name         := "chill-scala"
 
 version      := "1.1-SNAPSHOT"
 
