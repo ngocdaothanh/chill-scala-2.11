@@ -7,7 +7,7 @@ Chill doesn't support Scala 2.11.
 In your SBT project:
 
 ```
-libraryDependencies += "tv.cntt" %% "chill-scala" % "1.1"
+libraryDependencies += "tv.cntt" %% "chill-scala" % "1.2"
 ```
 
 Example:
