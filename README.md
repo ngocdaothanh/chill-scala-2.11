@@ -1,6 +1,11 @@
+[Chill](https://github.com/twitter/chill) **now supports Scala 2.11.
+Please use it instead.**
+
+--------------------------------------------------------------------------------
+
 This is a fork of Twitter's [Chill's](https://github.com/twitter/chill)
-chill-scala to build for both Scala 2.10 & 2.11. At this moment, the original
-Chill doesn't support Scala 2.11.
+chill-scala to build for both Scala 2.10 & 2.11. At this moment (Jul 5 2014),
+the original Chill doesn't support Scala 2.11.
 
 ## Usage
 
